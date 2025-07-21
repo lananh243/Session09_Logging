@@ -1,0 +1,18 @@
+2025-07-18 15:43:41 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 11984 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-18 15:43:41 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:43:43 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-18 15:43:43 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6de2728c
+2025-07-18 15:43:43 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-18 15:43:45 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 3.956 seconds (process running for 5.95)
+2025-07-18 15:43:54 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-18 15:43:54 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-18 15:43:57 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19360 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-18 15:43:57 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:43:59 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-18 15:43:59 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1567f1ef
+2025-07-18 15:43:59 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-18 15:44:00 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 3.639 seconds (process running for 4.229)
+2025-07-18 15:53:35 [http-nio-8080-exec-10] INFO  c.r.s.service.imp.AccountServiceImp - 2025-07-18T15:53:35.297605500 - getAccount 2
+2025-07-18 15:53:41 [http-nio-8080-exec-1] INFO  c.r.s.service.imp.AccountServiceImp - 2025-07-18T15:53:41.270913200 - getAccount 1
+2025-07-18 16:02:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-18 16:02:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

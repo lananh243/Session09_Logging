@@ -1,0 +1,306 @@
+2025-07-21 01:14:33 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 20812 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 01:14:33 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 01:14:34 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 01:14:35 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7d333208
+2025-07-21 01:14:35 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 01:14:36 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 3.229 seconds (process running for 5.08)
+2025-07-21 01:45:37 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 01:45:37 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 01:45:37 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 20812 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 01:45:37 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 01:45:37 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-21 01:45:37 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4e606ae5
+2025-07-21 01:45:37 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-21 01:45:37 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.392 seconds (process running for 1866.401)
+2025-07-21 01:46:13 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-21 01:46:13 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-21 01:46:13 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 20812 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 01:46:13 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 01:46:13 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2025-07-21 01:46:13 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4aae1f71
+2025-07-21 01:46:13 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2025-07-21 01:46:13 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.334 seconds (process running for 1902.143)
+2025-07-21 01:47:21 [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2025-07-21 01:47:21 [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2025-07-21 01:47:21 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 20812 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 01:47:21 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 01:47:21 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Starting...
+2025-07-21 01:47:21 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2ec184c
+2025-07-21 01:47:21 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Start completed.
+2025-07-21 01:47:21 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.317 seconds (process running for 1970.615)
+2025-07-21 01:47:36 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown initiated...
+2025-07-21 01:47:36 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown completed.
+2025-07-21 01:47:36 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 20812 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 01:47:36 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 01:47:36 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Starting...
+2025-07-21 01:47:36 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@d065f49
+2025-07-21 01:47:36 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Start completed.
+2025-07-21 01:47:37 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.339 seconds (process running for 1985.8)
+2025-07-21 01:52:16 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown initiated...
+2025-07-21 01:52:16 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown completed.
+2025-07-21 01:52:16 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 20812 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 01:52:16 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 01:52:16 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Starting...
+2025-07-21 01:52:16 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8f9c013
+2025-07-21 01:52:16 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Start completed.
+2025-07-21 01:52:16 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.323 seconds (process running for 2265.257)
+2025-07-21 01:53:16 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown initiated...
+2025-07-21 01:53:16 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown completed.
+2025-07-21 01:53:18 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 12664 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 01:53:18 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 01:53:19 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 01:53:19 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@fbdc55c
+2025-07-21 01:53:19 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 01:53:20 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 2.856 seconds (process running for 3.258)
+2025-07-21 02:04:00 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 02:04:00 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 02:04:03 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 12908 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:04:03 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:04:04 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 02:04:04 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@19641f30
+2025-07-21 02:04:04 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 02:04:05 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 2.871 seconds (process running for 3.249)
+2025-07-21 02:05:57 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 02:05:57 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 02:05:57 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 12908 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:05:57 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:05:57 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-21 02:05:57 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@13bb4c3c
+2025-07-21 02:05:57 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-21 02:05:57 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.36 seconds (process running for 115.436)
+2025-07-21 02:06:37 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-21 02:06:37 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-21 02:06:39 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 16664 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:06:39 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:06:40 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 02:06:40 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7185660e
+2025-07-21 02:06:40 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 02:06:41 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 2.735 seconds (process running for 3.105)
+2025-07-21 02:08:30 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 02:08:30 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 02:08:30 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 16664 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:08:30 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:08:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-21 02:08:30 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@534e2bb0
+2025-07-21 02:08:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-21 02:08:31 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.429 seconds (process running for 112.321)
+2025-07-21 02:11:26 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-21 02:11:26 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-21 02:11:28 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 15364 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:11:28 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:11:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 02:11:30 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ea39108
+2025-07-21 02:11:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 02:11:31 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 2.841 seconds (process running for 3.195)
+2025-07-21 02:18:56 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 02:18:56 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 02:18:56 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 15364 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:18:56 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:18:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-21 02:18:56 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@531b22eb
+2025-07-21 02:18:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-21 02:18:56 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.453 seconds (process running for 448.706)
+2025-07-21 02:21:42 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-21 02:21:42 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-21 02:21:42 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 15364 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:21:42 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:21:43 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2025-07-21 02:21:43 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6ffd5406
+2025-07-21 02:21:43 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2025-07-21 02:21:43 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.349 seconds (process running for 615.011)
+2025-07-21 02:23:24 [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2025-07-21 02:23:24 [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2025-07-21 02:23:24 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 15364 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:23:24 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:23:25 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Starting...
+2025-07-21 02:23:25 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4bbb3ac
+2025-07-21 02:23:25 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Start completed.
+2025-07-21 02:23:25 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.345 seconds (process running for 717.094)
+2025-07-21 02:24:52 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown initiated...
+2025-07-21 02:24:52 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown completed.
+2025-07-21 02:24:52 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 15364 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:24:52 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:24:53 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Starting...
+2025-07-21 02:24:53 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@48e87c77
+2025-07-21 02:24:53 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Start completed.
+2025-07-21 02:24:53 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.34 seconds (process running for 804.988)
+2025-07-21 02:31:02 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown initiated...
+2025-07-21 02:31:02 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown completed.
+2025-07-21 02:31:02 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 15364 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:31:02 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:31:02 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Starting...
+2025-07-21 02:31:02 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4ba5edcf
+2025-07-21 02:31:02 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Start completed.
+2025-07-21 02:31:02 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.367 seconds (process running for 1174.722)
+2025-07-21 02:32:14 [Thread-28] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown initiated...
+2025-07-21 02:32:14 [Thread-28] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown completed.
+2025-07-21 02:32:14 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 15364 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:32:14 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:32:14 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Starting...
+2025-07-21 02:32:14 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25945a36
+2025-07-21 02:32:14 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Start completed.
+2025-07-21 02:32:14 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.36 seconds (process running for 1246.531)
+2025-07-21 02:34:47 [Thread-33] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Shutdown initiated...
+2025-07-21 02:34:47 [Thread-33] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Shutdown completed.
+2025-07-21 02:34:47 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 15364 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:34:47 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:34:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Starting...
+2025-07-21 02:34:47 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@44ecbfa2
+2025-07-21 02:34:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Start completed.
+2025-07-21 02:34:47 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.332 seconds (process running for 1399.122)
+2025-07-21 02:35:29 [Thread-38] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Shutdown initiated...
+2025-07-21 02:35:29 [Thread-38] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Shutdown completed.
+2025-07-21 02:35:29 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 15364 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:35:29 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:35:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Starting...
+2025-07-21 02:35:30 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1cdadaf
+2025-07-21 02:35:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Start completed.
+2025-07-21 02:35:30 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.318 seconds (process running for 1441.996)
+2025-07-21 02:37:49 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Shutdown initiated...
+2025-07-21 02:37:49 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Shutdown completed.
+2025-07-21 02:37:51 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 20908 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:37:51 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:37:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 02:37:53 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7c2ec186
+2025-07-21 02:37:53 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 02:37:54 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 2.789 seconds (process running for 3.162)
+2025-07-21 02:38:52 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 02:38:52 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 02:38:54 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 4744 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:38:54 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:38:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 02:38:56 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6ea2c26a
+2025-07-21 02:38:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 02:38:57 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 2.938 seconds (process running for 3.343)
+2025-07-21 02:55:16 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 02:55:16 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 02:55:16 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 4744 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:55:16 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:55:16 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-21 02:55:16 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7307f689
+2025-07-21 02:55:16 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-21 02:55:16 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.442 seconds (process running for 982.486)
+2025-07-21 02:59:37 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-21 02:59:37 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-21 02:59:37 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 4744 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 02:59:37 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 02:59:37 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2025-07-21 02:59:37 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d978bb5
+2025-07-21 02:59:37 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2025-07-21 02:59:37 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.388 seconds (process running for 1243.394)
+2025-07-21 03:01:14 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2025-07-21 03:01:14 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2025-07-21 03:01:16 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 9396 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 03:01:16 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 03:01:17 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 03:01:17 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18e2d1a1
+2025-07-21 03:01:17 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 03:01:18 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 3.02 seconds (process running for 3.395)
+2025-07-21 03:03:24 [http-nio-8080-exec-1] INFO  c.ra.ss9.service.imp.MovieServiceImp - [33mThông tin cũ của phim: Movie(id=4, title=Avengers: Endgame, description=Superhero film, releaseDate=2023-12-25, poster=https://res.cloudinary.com/dcmtkk2mw/image/upload/v1753040701/liaifcg16zkcizcz4y2i.jpg)[0m
+2025-07-21 03:03:24 [http-nio-8080-exec-1] INFO  c.ra.ss9.service.imp.MovieServiceImp - [32mThông tin mới đã được thay đổi: Movie(id=4, title=Cuộc sống muôn màu, description=Flim tình cảm hay, releaseDate=2023-10-12, poster=https://res.cloudinary.com/dcmtkk2mw/image/upload/v1753040701/liaifcg16zkcizcz4y2i.jpg)[0m
+2025-07-21 03:04:45 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 03:04:45 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 03:04:45 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 9396 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 03:04:45 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 03:04:45 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-21 03:04:46 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@19d8b5a9
+2025-07-21 03:04:46 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-21 03:04:46 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.573 seconds (process running for 210.906)
+2025-07-21 03:07:07 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-21 03:07:07 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-21 03:07:09 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19936 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 03:07:09 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 03:07:10 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 03:07:10 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b4a0f24
+2025-07-21 03:07:10 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 03:07:11 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 2.822 seconds (process running for 3.337)
+2025-07-21 03:09:10 [http-nio-8080-exec-5] INFO  c.ra.ss9.service.imp.MovieServiceImp - [31mXóa thành công[0m
+2025-07-21 03:09:10 [http-nio-8080-exec-5] INFO  c.ra.ss9.service.imp.MovieServiceImp - [32mThông tin phim đã bị xóa: Movie(id=2, title=Cuộc sống tươi đẹp, description=Film tình cảm 2025, releaseDate=2024-06-17, poster=https://res.cloudinary.com/dcmtkk2mw/image/upload/v1753042084/zj96cghxlfjivmvyuhzq.jpg)[0m
+2025-07-21 03:10:12 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 03:10:12 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 03:10:13 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19936 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 03:10:13 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 03:10:13 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-21 03:10:13 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4254894a
+2025-07-21 03:10:13 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-21 03:10:13 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.952 seconds (process running for 185.755)
+2025-07-21 03:10:21 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-21 03:10:21 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-21 03:10:22 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19936 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 03:10:22 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 03:10:23 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2025-07-21 03:10:23 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@67d834ed
+2025-07-21 03:10:23 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2025-07-21 03:10:23 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 1.871 seconds (process running for 195.66)
+2025-07-21 03:11:12 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2025-07-21 03:11:12 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2025-07-21 10:15:49 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19776 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 10:15:49 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 10:15:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 10:15:52 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@798e66c1
+2025-07-21 10:15:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 10:15:53 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 4.347 seconds (process running for 6.046)
+2025-07-21 10:26:12 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-21 10:26:12 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-21 10:26:12 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19776 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 10:26:12 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 10:26:12 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-21 10:26:12 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6675ff3a
+2025-07-21 10:26:12 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-21 10:26:13 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.623 seconds (process running for 625.326)
+2025-07-21 10:34:56 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-21 10:34:56 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-21 10:34:56 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19776 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 10:34:56 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 10:34:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2025-07-21 10:34:56 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@588d65fb
+2025-07-21 10:34:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2025-07-21 10:34:56 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.501 seconds (process running for 1149.139)
+2025-07-21 10:38:39 [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2025-07-21 10:38:39 [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2025-07-21 10:38:39 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19776 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 10:38:39 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 10:38:39 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Starting...
+2025-07-21 10:38:39 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@48c95299
+2025-07-21 10:38:39 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Start completed.
+2025-07-21 10:38:39 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.461 seconds (process running for 1371.997)
+2025-07-21 10:40:19 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown initiated...
+2025-07-21 10:40:19 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown completed.
+2025-07-21 10:40:19 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19776 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 10:40:19 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 10:40:20 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Starting...
+2025-07-21 10:40:20 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@754ffb54
+2025-07-21 10:40:20 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Start completed.
+2025-07-21 10:40:20 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.436 seconds (process running for 1472.814)
+2025-07-21 10:41:13 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown initiated...
+2025-07-21 10:41:13 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown completed.
+2025-07-21 10:41:13 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19776 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 10:41:13 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 10:41:14 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Starting...
+2025-07-21 10:41:14 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3c902fc4
+2025-07-21 10:41:14 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Start completed.
+2025-07-21 10:41:14 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.454 seconds (process running for 1526.646)
+2025-07-21 10:41:30 [Thread-28] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown initiated...
+2025-07-21 10:41:30 [Thread-28] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown completed.
+2025-07-21 10:41:30 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19776 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 10:41:30 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 10:41:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Starting...
+2025-07-21 10:41:30 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@271b1349
+2025-07-21 10:41:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Start completed.
+2025-07-21 10:41:31 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.385 seconds (process running for 1543.534)
+2025-07-21 10:44:05 [Thread-33] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Shutdown initiated...
+2025-07-21 10:44:05 [Thread-33] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Shutdown completed.
+2025-07-21 10:44:05 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 19776 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 10:44:05 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 10:44:05 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Starting...
+2025-07-21 10:44:05 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a12fe2c
+2025-07-21 10:44:05 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Start completed.
+2025-07-21 10:44:05 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 0.404 seconds (process running for 1698.235)
+2025-07-21 10:44:12 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Shutdown initiated...
+2025-07-21 10:44:12 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Shutdown completed.
+2025-07-21 10:44:14 [restartedMain] INFO  com.ra.ss9.Ss9Application - Starting Ss9Application using Java 17.0.15 with PID 5568 (C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9\build\classes\java\main started by ADMIN in C:\Users\ADMIN\RikkeiAcademy\Session09_Logging\ss9)
+2025-07-21 10:44:14 [restartedMain] INFO  com.ra.ss9.Ss9Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-21 10:44:16 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-21 10:44:16 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@60f71cf7
+2025-07-21 10:44:16 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-21 10:44:18 [restartedMain] INFO  com.ra.ss9.Ss9Application - Started Ss9Application in 4.265 seconds (process running for 4.791)
