@@ -1,0 +1,16 @@
+1.1. Logging là gì?
+
+Logging là quá trình ghi lại các sự kiện,
+trạng thái, hoặc thông tin hoạt động của ứng dụng
+trong quá trình thực thi. Các bản ghi log (log entries)
+thường bao gồm thông tin như thời gian, cấp độ log,
+thông điệp, và bối cảnh (context) của sự kiện.
+
+1.2. Tại sao cần log?
+
+Logging đóng vai trò quan trọng trong phát triển và vận hành ứng dụng vì:
+Debugging: Giúp xác định nguyên nhân lỗi bằng cách ghi lại các sự kiện dẫn đến lỗi.
+Giám sát hệ thống: Theo dõi trạng thái ứng dụng, như số lượng yêu cầu, thời gian xử lý, hoặc lỗi bất thường.
+Kiểm tra bảo mật: Ghi lại các hoạt động đáng ngờ, ví dụ: truy cập trái phép.
+Bảo trì và tối ưu hóa: Cung cấp dữ liệu để phân tích hiệu suất và cải thiện ứng dụng.
+Tuân thủ quy định: Một số hệ thống yêu cầu ghi log để đáp ứng các tiêu chuẩn pháp lý hoặc kiểm toán.

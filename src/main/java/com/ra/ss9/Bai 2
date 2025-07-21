@@ -1,0 +1,7 @@
+| **Cấp độ** | **Cách sử dụng**                                                                | **Ví dụ khi sử dụng**                                            |
+| ---------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **ERROR**  | Ghi lại lỗi nghiêm trọng không thể khắc phục, ảnh hưởng đến hoạt động ứng dụng. | Kết nối đến database thất bại, không thể ghi dữ liệu quan trọng. |
+| **WARN**   | Ghi lại lỗi có thể khắc phục hoặc cảnh báo tiềm ẩn.                             | Gọi API bị chậm, sử dụng phương thức đã bị cảnh báo ngưng dùng.  |
+| **INFO**   | Ghi lại các sự kiện quan trọng hoặc thông tin hệ thống.                         | Người dùng đăng nhập thành công, hệ thống khởi động hoàn tất.    |
+| **DEBUG**  | Ghi thông tin chi tiết phục vụ gỡ lỗi trong quá trình phát triển.               | In ra tham số truyền vào hàm, kết quả xử lý trung gian.          |
+| **TRACE**  | Ghi thông tin rất chi tiết, theo dõi luồng thực thi.                            | Theo dõi từng bước xử lý trong vòng lặp hoặc từng dòng gọi hàm.  |
